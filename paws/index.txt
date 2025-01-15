@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>My FIRST Webpage</title>
+</head> 
+<body>
+<h1> Hello, everybody) Our team is really happy because you are looking on our website</h1>
+<h2> Here is the Board of our Director Bios </h2>
+
+<h4> Dr. Rebecca Sniffington </h4>
+<h5> Chairperson </h5>
+<p> Dr. Sniffington has spent her career in canine education, pioneering research on phonics for puppies. She joined Paws for Literacy after realizing her dachshund, Theodore, couldn’t read road signs. Rebecca’s passion for literacy is matched only by her love of baking organic treats for her dog. </p>
+<img src="board/Dr Rebecca Sniffington.png" width = 50%>
+
+<a href="http://www.britishschool.ua">BISU</a>
+</body>
+</html>
+
